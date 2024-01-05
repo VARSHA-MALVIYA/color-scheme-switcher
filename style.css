@@ -80,6 +80,13 @@ html,body{
     padding: 10px;
 }
 
+#second{
+    display:flex;
+    justify-content:center;
+    align-item:center;
+    flex-direction:column;
+}
+
 @media(max-width:500px)
 {
     #footer{
